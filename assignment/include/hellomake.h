@@ -1,5 +1,1 @@
-/*
-example include file
-*/
-
-void myPrintHelloMake(void);
+double randomGenerator();

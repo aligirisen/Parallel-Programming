@@ -10,7 +10,7 @@ LIBS=-lm
 _DEPS = hellomake.h
 DEPS = $(patsubst %,$(IDIR)/%,$(_DEPS))
 
-_OBJ = 18050111007.o hellofunc.o 
+_OBJ = 18050111007.o randomGenerator.o 
 OBJ = $(patsubst %,$(ODIR)/%,$(_OBJ))
 
 
